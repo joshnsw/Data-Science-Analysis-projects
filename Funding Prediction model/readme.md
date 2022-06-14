@@ -76,6 +76,12 @@ df=df.style.format({'Actual': '{:,.1f}', 'Predicted':'{:,.1f}', 'delta' : '{:,.0
 df
 
 ```
-We used standard 80% training data to predict 20% of the data results. The intial results were not so great,actual vs predicted delta was high and mean absolute percentage error was 81% which was very high.
+We used standard 80% training data to predict 20% of the data results. This is the result of 
 ![screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Funding%20Prediction%20model/predictionresults.jpg)
 
+
+
+3. Initial results validation
+Based on the inital results,we tweaked some of the data and then compared the results of updated dataset of the various ML models.
+
+![screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Funding%20Prediction%20model/variousmodels.jpg)
