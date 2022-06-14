@@ -14,6 +14,8 @@ The steps of the project is as follows:
 
 1. Preliminary data analysis on collected data to find out the top predictors of the target variable.
 
+![screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Funding%20Prediction%20model/seaborn%20correlation.png)
+
 
 
 
