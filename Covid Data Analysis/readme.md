@@ -1,9 +1,11 @@
-
 <b>Description:</b>
-In this project, I utilized public covid statistics data to do some basic data analysis using mysql queries.
+In this project, I utilized public covid statistics data to do some basic data analysis using mysql queries. Then,i used the data to create a tableau dashboard which allows the reader.
+Link to dashboard: https://public.tableau.com/app/profile/josh6855/viz/Covidstatisticsdashboard/Dashboard1
 
 <b>What I learnt:</b>
 Putting data into sql database,using common sql queries to get information out of a huge dataset.
+Using tableau to create a dashboard that conveys queried information in a visualised format.
+
 
 
 <b>Details of the project:</b>
@@ -16,6 +18,8 @@ The steps of this project are as follows:
 -continent with highest death count
 -total cases and deaths worldwide
 -total population that was vaccinated by rolling count of new vaccinations
+3.Upload data to tableau,edited information in four different sheets and combined the sheets into one dashboard.
+
 
 ```
 SELECT * 
@@ -88,3 +92,6 @@ ORDER BY 2,3 ;
 SELECT * FROM PortfolioProject.percentagepopulationvaccinated;
 
 ```
+
+
+Dashboard image:
