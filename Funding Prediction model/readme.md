@@ -81,4 +81,6 @@ df
 
 
 3.
+```
 
+![screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Funding%20Prediction%20model/predictionresults.jpg)
