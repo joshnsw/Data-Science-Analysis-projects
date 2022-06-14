@@ -95,3 +95,5 @@ SELECT * FROM PortfolioProject.percentagepopulationvaccinated;
 
 
 Dashboard image:
+
+![Screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Covid%20Data%20Analysis/Dashboard%201.png)
