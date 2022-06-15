@@ -16,14 +16,14 @@ I learnt how to create dashboards for automated reporting/analysis using company
 
 This is the first dashboard that I created,which connects to a database that stores actual sales figure. The information is used to make decisions on which product we should use for further developments.
 
-Sales Analysis Dashboard
+<b>Sales Analysis Dashboard</b>
 ![Screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Truck%20Data%20Reporting%20Dashboard/Sales%20analysis%20dashboard_page-0001.jpg)
 
 
 
 This is the second dashboard that I created,it is used to replace the regular reporting slides that we create.
 
-Cost Reporting Dashboard
+<b>Cost Reporting Dashboard</b>
 ![Screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Truck%20Data%20Reporting%20Dashboard/Cost%20Reporting%20Dashboard1024_1.jpg)
 ![Screenshot](https://github.com/joshnsw/Data-Science-Analysis-projects/blob/main/Truck%20Data%20Reporting%20Dashboard/Cost%20Reporting%20Dashboard1024_2.jpg)
 
