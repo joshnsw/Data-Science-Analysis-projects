@@ -1,5 +1,8 @@
 <b>Description:</b>
-In this project, me and my colleagues collected data from various truck development projects and utilized python machine learning models to create a funding prediction tool. The background of this project was that there was always a variance between budgeting funding of project and actual use of funding. If we are able to create a accurate funding predictor model,resources could be more efficiently utilized by preventing underallocation/overallocation of funding to projects.
+The purpose of this project was to automate the powerpoint slides that we have to create for management reporting and to visualise data that we usually receive in excel format. In my current job,we have to manually create powerpoint slides for reporting and it can take a considerable amount of time to format and input information into the slides. With a power BI dashboard, we can simply input the key figures into a excel sheet and several dashboards can replace the powerpoint slides,which saves up alot of time. Additionally, by connecting power BI to a database that we usually get sales figure from, we dont have to make a new request to the database owner each time we require the information, and the data can be 
+
+
+
 
 
 <b>What I learnt:</b>
