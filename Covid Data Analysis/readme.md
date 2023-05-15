@@ -1,5 +1,5 @@
 <b>Description:</b>
-In this project, I utilized public covid statistics data to do some basic data analysis using mysql queries. Then,i used the data to create a tableau dashboard which allows the reader.
+In this project, I utilized public covid statistics data to do some basic data analysis using mysql queries. Then,i used the data to create a tableau dashboard which allows the reader to get a glance at the key statistics.
 Link to dashboard: https://public.tableau.com/app/profile/josh6855/viz/Covidstatisticsdashboard/Dashboard1
 
 <b>What I learnt:</b>
